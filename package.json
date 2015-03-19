@@ -1,13 +1,13 @@
 {
   "name": "strong-pubsub-example",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Ritchie Martori",
+  "license": {
+    "name": "Dual MIT/StrongLoop",
+    "url": "https://github.com/strongloop/strong-pubsub-connection-mqtt/blob/master/LICENSE"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "binary-pack": "0.0.3",
     "browserify": "^9.0.3",
