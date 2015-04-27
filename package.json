@@ -2,7 +2,7 @@
   "name": "strong-pubsub-example",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "author": "Ritchie Martori",
   "license": {
     "name": "Dual MIT/StrongLoop",
