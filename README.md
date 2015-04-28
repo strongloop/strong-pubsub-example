@@ -7,8 +7,12 @@ This example demonstrates the end-to-end functionality of the **strong-pubsub** 
  - Bridge connections (from the browser or TCP)
  - Browserify + Primus (for use in browsers)
 
+## Prerequisites
 
-**Note: You must have [mosquitto](http://mosquitto.org/) installed to run the example!**
+1. Install [Mosquitto](http://mosquitto.org/) 
+2. Make sure that the path to the Mosquito executable is on your system PATH.  For example, on Mac OS, you might need to add `/usr/local/sbin` to your PATH.
+
+## Run the example
 
 To run:
 
