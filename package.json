@@ -8,6 +8,9 @@
     "name": "Dual MIT/StrongLoop",
     "url": "https://github.com/strongloop/strong-pubsub-connection-mqtt/blob/master/LICENSE"
   },
+  "scripts": {
+    "test": "node test"
+  },
   "dependencies": {
     "binary-pack": "0.0.3",
     "browserify": "^9.0.3",
