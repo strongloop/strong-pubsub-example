@@ -4,10 +4,7 @@
   "description": "",
   "main": "server.js",
   "author": "Ritchie Martori",
-  "license": {
-    "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/strong-pubsub-connection-mqtt/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "scripts": {
     "test": "node test"
   },
