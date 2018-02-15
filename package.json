@@ -14,7 +14,7 @@
     "duplex": "^1.0.0",
     "engine.io": "^1.5.1",
     "express": "^4.12.2",
-    "lodash": "^3.4.0",
+    "lodash": "^4.17.5",
     "primus": "2.4.12",
     "strong-pubsub": "^0.1.0",
     "strong-pubsub-connection-mqtt": "^0.1.0",
