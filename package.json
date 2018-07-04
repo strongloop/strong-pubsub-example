@@ -6,7 +6,9 @@
   "author": "Ritchie Martori",
   "license": "MIT",
   "scripts": {
-    "test": "node test"
+    "test": "node test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "binary-pack": "0.0.3",
@@ -14,12 +16,14 @@
     "duplex": "^1.0.0",
     "engine.io": "^1.5.1",
     "express": "^4.12.2",
-    "lodash": "^3.4.0",
+    "lodash": "^4.17.5",
     "primus": "2.4.12",
     "strong-pubsub": "^0.1.0",
     "strong-pubsub-connection-mqtt": "^0.1.0",
     "strong-pubsub-mqtt": "^0.1.0",
     "strong-pubsub-bridge": "^0.1.0",
-    "strong-pubsub-test": "^0.1.0"
-  }
+    "strong-pubsub-test": "^0.1.0",
+    "snyk": "^1.88.1"
+  },
+  "snyk": true
 }
