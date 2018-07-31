@@ -15,7 +15,7 @@
     "engine.io": "^1.5.1",
     "express": "^4.12.2",
     "lodash": "^3.4.0",
-    "primus": "2.4.12",
+    "primus": "4.0.5",
     "strong-pubsub": "^0.1.0",
     "strong-pubsub-connection-mqtt": "^0.1.0",
     "strong-pubsub-mqtt": "^0.1.0",
